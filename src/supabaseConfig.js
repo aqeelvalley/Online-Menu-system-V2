@@ -10,5 +10,5 @@
 //  live cross-device sync. See README for the one-time SQL setup.
 // ─────────────────────────────────────────────────────────────
 
-export const SUPABASE_URL = "";
-export const SUPABASE_ANON_KEY = "";
+export const SUPABASE_URL = "https://gfgofzdwqbrzpxsxzgil.supabase.co";
+export const SUPABASE_ANON_KEY = "sb_publishable_hbvIH3HhV9r3BcPt_zJXOg_QilIh-j8";
